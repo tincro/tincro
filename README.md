@@ -27,3 +27,5 @@ I would love to collaborate on an open source project, I'd even consider startin
 I'm interested in networking with like-minded artists or programmers, or someone that would enjoy showing me the ropes of development.
 
 If you have any advice for me, I'm all ears and would love to connect!
+
+My goals are to work in technical space for VFX.

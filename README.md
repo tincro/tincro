@@ -18,12 +18,4 @@ Here are some ideas to get you started:
 
 I'm Austin. I'm a 3D artist and self-taught developer.
 
-My favorite language I've learned so far is Python.
-
-I would love to collaborate on an open source project, I'd even consider starting one if I had the right idea!
-
-I'm interested in networking with like-minded artists or programmers, or someone that would enjoy showing me the ropes of development.
-
-If you have any advice for me, I'm all ears and would love to connect!
-
-My goals are to work in technical space for VFX.
+Currently I work in VFX, but I love learning all sort of new technologies and this hub is my playground!

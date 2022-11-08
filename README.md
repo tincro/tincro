@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 # Thanks for visiting! 
 <div id="badges">
   <a href="https://www.linkedin.com/in/austincronin/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn badge" />
+  </a>
+  <a href="https://www.twitter.com/tincro/">
+    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter badge" />
   </a>
 </div>
 

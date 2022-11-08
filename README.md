@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Thanks for visiting! 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/austincronin/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</div>
 
 I'm Austin. I'm a 3D artist and self-taught developer.
 
